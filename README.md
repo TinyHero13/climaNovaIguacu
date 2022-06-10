@@ -42,4 +42,4 @@ from google.colab import files
 # Relátorio no Power Bi
 Para uma melhor visualização dos dados eu transformei o DataFrame em um arquivo csv e fiz um relátorio no Power BI:
 
-[![Relatorio]('/assets/relatorio.png')]
+[![Relatorio]('[/assets/relatorio.png](https://github.com/TinyHero13/climaNovaIguacu/blob/main/assets/relatorio.png)')]
