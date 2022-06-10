@@ -9,7 +9,7 @@
 - [Introdução](#introdução)
 - [Como usar](#como-usar)
 - [Configurações recomendadas](#configurações-recomendadas)
-- [Relatório no Power BI](#relatorio-no-power-bi)
+- [Relatório no Power BI](#relatório-no-power-bi)
 
 # Introdução
 Um código feito para analisar a temperatura máxima e mínima durante a semana em Nova Iguaçu, RJ.
