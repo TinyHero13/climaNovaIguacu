@@ -1,4 +1,3 @@
-
 # Análise do clima de Nova Iguaçu
 
 
@@ -7,10 +6,10 @@
 
 
 # Tabela de conteúdos
-- [Introdução](#Introdução)
-- [Como usar](#how-to-use)
-- [Configurações recomendadas](#recommended-configuration)
-- [Relátorio no Power BI](#power-bi)
+- [Introdução](#introdução)
+- [Como usar](#como-usar)
+- [Configurações recomendadas](#configurações-recomendadas)
+- [Relatório no Power BI](#relatorio-no-power-bi)
 
 # Introdução
 Um código feito para analisar a temperatura máxima e mínima durante a semana em Nova Iguaçu, RJ.
@@ -40,7 +39,7 @@ from google.colab import files
 ````
 
 
-# Relátorio no Power Bi
+# Relatório no Power Bi
 Para uma melhor visualização dos dados eu transformei o DataFrame em um arquivo csv e fiz um relátorio no Power BI:
 
 ![Relatorio](https://github.com/TinyHero13/climaNovaIguacu/blob/main/assets/relatorio.png)
