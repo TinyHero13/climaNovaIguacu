@@ -8,6 +8,7 @@
 
 # Tabela de conteúdos
 - [Introdução](#introduction)
+- [Como usar](#how-to-use)
 - [Configurações recomendadas](#recommended-configuration)
 - [Relátorio no Power BI](#power-bi)
 
